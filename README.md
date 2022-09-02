@@ -5,13 +5,6 @@ How to build a CRUD GUI app with Python, the Tkinter library and Sqlite3.
 By Brad Traversy / Traversy Media on YouTube:
 https://www.youtube.com/watch?v=ELkaEpN29PU
 
-Pyinstaller code for MacOS Monterey 12.5.1 (tested, works fine):
-
-**pyinstaller part_manager.py**
-
-Pyinstaller code for Windows(not tested):
-
-**pyinstaller part_manager.py --onefile**
 
 part_manager.py
 ========================================================
@@ -202,3 +195,13 @@ Sample Output
 
 ![Sample output Part Manager](https://github.com/nihathalici/Desktop-GUI-App-With-Python---Tkinter/blob/main/part_manager_sample_output.PNG)
 
+Bundle the application into a single package
+========================================================
+
+Pyinstaller code for MacOS Monterey 12.5.1 (tested, works fine):
+
+**pyinstaller part_manager.py**
+
+Pyinstaller code for Windows(not tested):
+
+**pyinstaller part_manager.py --onefile**
