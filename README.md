@@ -7,11 +7,11 @@ https://www.youtube.com/watch?v=ELkaEpN29PU
 
 Pyinstaller code for MacOS Monterey 12.5.1 (tested, works fine):
 
-** pyinstaller part_manager.py **
+**pyinstaller part_manager.py
 
 Pyinstaller code for Windows(not tested):
 
-** pyinstaller part_manager.py --onefile **
+**pyinstaller part_manager.py --onefile
 
 part_manager.py
 ========================================================
